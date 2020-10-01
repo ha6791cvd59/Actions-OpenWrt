@@ -2,7 +2,7 @@
 
 - [[启动方式](https://github.com/danshui-git/shuoming/blob/master/%E6%89%8B%E5%8A%A8%E5%BC%80%E5%A7%8B.md)]
 
-- [[Lede_x86_64-Run workflow(白色按钮）-Run workflow(绿色按钮）启动编译](https://github.com/281677160/Actions-OpenWrt/actions?query=workflow%3A%E7%BC%96%E8%AF%91Lede_x86_64%E5%9B%BA%E4%BB%B6)]
+- [[Lede_x86_64-Run workflow(白色按钮）-Run workflow(绿色按钮）启动编译](https://github.com/ha6791cvd59/Actions-OpenWrt/actions?query=workflow%3A%E7%BC%96%E8%AF%91Lede_x86_64%E5%9B%BA%E4%BB%B6)]
 
 - [[Lienol_x86_64-Run workflow(白色按钮）-Run workflow(绿色按钮）启动编译](https://github.com/281677160/Actions-OpenWrt/actions?query=workflow%3A%E7%BC%96%E8%AF%91Lienol_x86_64%E5%9B%BA%E4%BB%B6)]
 
